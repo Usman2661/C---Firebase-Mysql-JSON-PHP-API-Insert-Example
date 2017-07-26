@@ -1,0 +1,33 @@
+c:\users\usman ali\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\usman ali\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\usman ali\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\usman ali\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\usman ali\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\usman ali\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\usman ali\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\usman ali\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\usman ali\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Usman Ali\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usman Ali\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\bin\Debug\MySql.Web.dll
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\bin\Debug\MySql.Web.xml
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.WindowsFormsApplication1.exe.config
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HomPage.resources
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Usman Ali\Desktop\C# Projects\PostToAPI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MySQL.resources
